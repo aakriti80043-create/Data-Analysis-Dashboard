@@ -28,3 +28,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+---
+## Dashboard
+
+<img width="935" height="435" alt="vrinda store dashboard" src="https://github.com/user-attachments/assets/c9ba8600-6993-49a5-8b2b-36bdbf5a0d0a" />
