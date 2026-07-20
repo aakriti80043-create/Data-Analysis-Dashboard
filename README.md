@@ -10,7 +10,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 ## 📂 Dataset used
 - <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Dataset</a>
 
-Questions (KPIs)
+## Questions (KPIs)
 -Compare the sales and orders using single chart.
 -Which month got the highest sales and orders?
 -Who purchased more - Men or Women?
@@ -20,4 +20,4 @@ Questions (KPIs)
 -Which Channel is contributing maximum to the sales?
 -Highest selling category?
 -Percentage of Total Orders delivered
--Dashboard Interaction <a href="
+-Dashboard Interaction <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/vrinda%20store%20dashboard.png">View Dashboard</a>
