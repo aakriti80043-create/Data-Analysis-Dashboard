@@ -8,4 +8,4 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 
 ---
 ## 📂 Dataset used
-- <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis."> Dataset</a>
+- <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Dataset</a>
