@@ -7,3 +7,5 @@ This project analyzes the sales performance of **Vrinda Store** using Microsoft 
 The dashboard provides a comprehensive view of sales trends, customer behavior, order status, regional performance, and product category analysis.
 
 ---
+## 📂 Dataset used
+- <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis."> Dataset</a>
