@@ -9,7 +9,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 ---
 ## 📂 Dataset used
 - <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Dataset</a>
-
+---
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -22,8 +22,9 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 - Percentage of Total Orders delivered
 - Dashboard Interaction <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard/blob/main/vrinda%20store%20dashboard.png">View Dashboard</a>
 
+---
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
-= Created pivot tables according to the questions asked.
-= Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
